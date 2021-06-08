@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Wall_Straight",
+    "author": "ROXASBrandon",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 6,
+      "max_y": 7,
+      "max_z": 15
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 576,
+          "item": {
+            "id": "quark:basalt_bricks"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "quark:basalt_bricks_slab"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "quark:basalt_bricks_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 128,
+          "item": {
+            "id": "quark:basalt_bricks_vertical_slab"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 48,
+          "item": {
+            "id": "quark:basalt_pavement"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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\u003d\u003d"
+}

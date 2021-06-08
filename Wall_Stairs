@@ -1,0 +1,64 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.16.5",
+    "name": "Wall_Stairs",
+    "author": "ROXASBrandon",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 9,
+      "max_y": 7,
+      "max_z": 15
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 735,
+          "item": {
+            "id": "quark:basalt_bricks"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "quark:basalt_bricks_slab"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 27,
+          "item": {
+            "id": "quark:basalt_bricks_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 64,
+          "item": {
+            "id": "quark:basalt_bricks_vertical_slab"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 60,
+          "item": {
+            "id": "quark:basalt_pavement"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 21,
+          "item": {
+            "id": "quark:polished_basalt_stairs"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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\u003d\u003d"
+}
